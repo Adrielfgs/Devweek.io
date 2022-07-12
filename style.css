@@ -7,7 +7,7 @@
 }
 
 body {
-    background-color: #70c6c7;
+    background-color: #535151;
 }
 
 .resume-contents {
@@ -21,13 +21,13 @@ body {
 .left-section {
     grid-column: span 2;
     height: 100%;
-    background-color: #00204A;
+    background-color: #1b1a1a;
 }
 
 .right-section {
     grid-column: span 5;
     height: 100%;
-    background-color: #4B6982;
+    background-color: #375053;
     border-radius: 0px 60px 0px 0px;
 }
 
@@ -45,7 +45,18 @@ body {
     border-radius: 50%;
     border: 8px solid #1B2631;
 }
-
+.css .css {
+    width: 20%;
+    padding: 0.5rem;
+}
+.css .css2 {
+    width: 22%;
+    padding: 0.5rem;
+}
+.css .css3 {
+    width: 50%;
+    padding: 0.5rem;
+}
 .name {
     color: #D6DBDF;
     font-size: 30px;
@@ -150,10 +161,16 @@ body {
     padding-bottom: 2rem;
 }
 .about-me-contents {
-    font-size: 18px;
+    font-size: 20px;
     letter-spacing: 1px;
     line-height: 2rem;
     color: #F1F8FD;
+}
+.about-me-contents2 {
+    font-size: 20px;
+    letter-spacing: 1px;
+    line-height: 2rem;
+    color: #ffffff;
 }
 
 .experience-contents,
